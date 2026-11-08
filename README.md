@@ -2,8 +2,8 @@
 
 Dos sitios ficticios, hechos con un tema propio en PHP y CSS. Las portadas, los textos y las fichas se guardan en WordPress. Ambos enlaces arrancan una sesión independiente de WordPress Playground.
 
-- [Taller Umbral · Reformas](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FDilanUse%2Fwordpress-muestras%2Fmain%2Freformas.zip). Servicios, proyecto y formulario de presupuesto de prueba.
-- [Clave Norte · Inmobiliaria](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FDilanUse%2Fwordpress-muestras%2Fmain%2Finmobiliaria.zip). Catálogo de tres inmuebles con filtros por operación y barrio, y ficha individual.
+- [Taller Umbral · Reformas](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FDilanUse%2Fwordpress-muestras%2Fmain%2Freformas.zip&storage=temp). Servicios, proyecto y formulario de presupuesto de prueba.
+- [Clave Norte · Inmobiliaria](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FDilanUse%2Fwordpress-muestras%2Fmain%2Finmobiliaria.zip&storage=temp). Catálogo de tres inmuebles con filtros por operación y barrio, y ficha individual.
 
 Para probar el editor de bloques, pulsa **Editar en WordPress** al pie de una portada. Los inmuebles se administran en **Inmuebles** y sus detalles se guardan en campos personalizados. El formulario de reforma genera una confirmación de ejemplo en pantalla. Las ediciones de la sesión se pueden guardar localmente o exportar desde Playground.
 
